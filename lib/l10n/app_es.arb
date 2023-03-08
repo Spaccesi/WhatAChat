@@ -1,0 +1,22 @@
+{
+  "hello_world": "¡Hola Mundo!",
+  "email": "Email",
+  "password": "Contraseña",
+  "repeat_password": "Repetir contraseña",
+  "please_enter_a_valid_email": "Por favor introduce un email válido.",
+  "please_enter_a_valid_password": "Por favor introduce una contraseña válida.",
+  "sign_up": "Registrate",
+  "dont_you_have_an_account": "¿Aún no tienes una cuenta?",
+  "do_you_already_have_an_account": "¿Ya estás registrado?",
+  "login": "Iniciar sesión",
+  "name": "Nombre",
+  "home": "Inicio",
+  "chat": "Chat",
+  "calendar": "Calendario",
+  "loading": "Cargando...",
+  "teams": "Equipos",
+  "information": "Información",
+  "statistics": "Estadisticas",
+  "reports": "Informes",
+  "log_out": "Cerrar sesión"
+}

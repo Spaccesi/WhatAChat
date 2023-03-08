@@ -1,0 +1,25 @@
+{
+  "hello_world": "Hello World!",
+  "@hello_world": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "email": "Email",
+  "password": "Password",
+  "repeat_password": "Repeat password",
+  "please_enter_a_valid_email": "Please enter a valid email.",
+  "please_enter_a_valid_password": "Please enter a valid password.",
+  "sign_up": "Sign up",
+  "dont_you_have_an_account": "Don't you have an account?",
+  "do_you_already_have_an_account": "Do you already have an account?",
+  "login": "Login",
+  "name": "Name",
+  "home": "Home",
+  "chat": "Chat",
+  "calendar": "Calendar",
+  "loading": "Loading...",
+  "teams": "Teams",
+  "information": "Information",
+  "statistics": "Statistics",
+  "reports": "Reports",
+  "log_out": "Log out"
+}
