@@ -1,0 +1,21 @@
+rules_version= '1';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{documents=**} {
+      allow read, write: if isSignedIn();
+    }
+  }
+
+  function isSignedIn() {
+    return request.auth != null;
+  }
+
+  function isCreator() {
+    return request.auth.uid == resource.data.creatorId;
+  }
+
+  function isMember() {}
+
+  function isAdmin() {}
+}
